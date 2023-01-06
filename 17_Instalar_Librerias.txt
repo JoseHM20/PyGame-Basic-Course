@@ -1,0 +1,8 @@
+Una libreria es una forma de facilitar el trabajo
+a la hora de programar, puesto que dicha biblioteca 
+contiene funcionalidades para que el usuario las mande llamar
+y facilitar la escritura de codigo.
+
+Para realizar la instalacion de una libreria es importante utilizar
+el comando "pip install libreria_deseada" desde la linea de 
+comandos de windows (CMD).
